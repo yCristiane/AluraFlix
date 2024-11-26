@@ -1,4 +1,4 @@
 body {
-    color: hsl(218, 80%, 10%);
-    background: #6483b1 ;
+    color: hwb(219 0% 83%);
+    background: hsl(216, 100%, 86%) ;
 }
